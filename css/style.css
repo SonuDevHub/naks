@@ -28,7 +28,7 @@
 27. News Style Two
 28. Page Title
 29. Research Page Section
-30. Research Details
+30. Research Detail
 31. Professor Page Section
 32. Professor Details
 33. About Section
@@ -70,8 +70,8 @@
 
 :root{
   --theme-color: #F1C232;
-  --theme-color-2: #004365;
-  --secondary-color: #004365;
+  --theme-color-2: #f1c231;
+  --secondary-color: #000000;
   --text-color: #666666;
   --title-color: #111111;
   --text-font: "Inter", sans-serif;
@@ -83,7 +83,7 @@ body {
   color: var(--text-color);
   line-height:26px;
   font-weight:400;
-  background:#ffffff;
+  background:#f7f7f7;
   font-family: var(--text-font);
   background-size:cover;
   background-repeat:no-repeat;
