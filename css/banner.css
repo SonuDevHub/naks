@@ -24,7 +24,7 @@
 .banner-section .content-box h2{
   font-size: 72px;
   line-height: 79px;
-  color: #fff;
+  color: #000;
   max-width: 930px;
   margin: 0 auto;
   margin-bottom: 24px;
@@ -33,7 +33,7 @@
 .banner-section .content-box p{
   font-size: 20px;
   line-height: 32px;
-  color: #fff;
+  color: #000;
   max-width: 720px;
   margin: 0 auto;
   margin-bottom: 40px;
